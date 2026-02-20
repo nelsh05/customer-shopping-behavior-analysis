@@ -29,7 +29,6 @@ The goal is to derive actionable insights into revenue contribution and customer
 - **PostgreSQL (SQL)** – CTEs, Aggregations, Window Functions
 - **Power BI** – Dashboard visualization  
 
----
 
 ## Data Preparation
 
@@ -42,7 +41,7 @@ Data was cleaned in Python using Pandas:
 
 The cleaned dataset was programmatically inserted into PostgreSQL using `psycopg2` for structured SQL-based analysis.
 
----
+
 
 ## SQL Segmentation Approach
 
@@ -65,7 +64,7 @@ Combined scores were used to segment customers into:
 - Potential  
 - At Risk  
 
----
+
 
 ## Dashboard Overview
 
@@ -79,7 +78,7 @@ The Power BI dashboard highlights:
 **[Dashboard Preview]**<img width="1193" height="652" alt="dashboard" src="https://github.com/user-attachments/assets/5906b822-1418-46a7-8918-cc5928b8d8ed" />
 
 
----
+
 
 ## Key Insights
 
@@ -88,4 +87,4 @@ The Power BI dashboard highlights:
 - Mid-tier segments represent growth opportunities.
 - Segmentation enables targeted retention strategies.
 
----
+
