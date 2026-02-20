@@ -3,7 +3,7 @@ Customer segmentation and revenue analysis using Python (Pandas), SQL, and Power
 
 ---
 
-## Executive Summary
+## Summary
 
 This project analyzes customer purchasing behavior and applies segmentation techniques to identify high-value and at-risk customers.
 
@@ -76,7 +76,7 @@ The Power BI dashboard highlights:
 - KPI Cards (Total Revenue, Customers, Avg Order Value)  
 - Avg Revenue per Customer (Tooltip Metric)  
 
-**[Dashboard Preview]**/<img width="1193" height="652" alt="dashboard" src="https://github.com/user-attachments/assets/5906b822-1418-46a7-8918-cc5928b8d8ed" />
+**[Dashboard Preview]**<img width="1193" height="652" alt="dashboard" src="https://github.com/user-attachments/assets/5906b822-1418-46a7-8918-cc5928b8d8ed" />
 
 
 ---
