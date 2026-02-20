@@ -1,7 +1,7 @@
 # customer-shopping-behavior-analysis
 Customer segmentation and revenue analysis using Python (Pandas), SQL, and Power BI dashboard visualization.
 
----
+
 
 ## Summary
 
@@ -13,7 +13,7 @@ An end-to-end workflow was implemented:
 
 The goal is to derive actionable insights into revenue contribution and customer performance.
 
----
+
 
 ## Business Objective
 
@@ -21,7 +21,7 @@ The goal is to derive actionable insights into revenue contribution and customer
 - Analyze revenue contribution by segment  
 - Support retention and targeted marketing strategies  
 
----
+
 
 ## Tools & Technologies
 
